@@ -16,7 +16,7 @@ Basic Data Structure
 - Common Terms - Subarray/ Subsequence
   
       - subarray: A range of contiguous values within an array
-      - subsequence: A sequence that can be derived from the given sequence by deleting some or no elements W/O changing the order
+      - subsequence: A sequence that can be derived from the given sequence by deleting some or no elements W/O changing order
       - All Subarray is subsequence, but the reverse is not true.
   
       Example: [2, 3, 6, 1, 5, 4]
