@@ -2,14 +2,27 @@
 In this Project, We will Solve different DSA Problems. Starting from Basic to Advance level from LeetCode.
 
 # Table of Contents
+```
+Basic Data Structure
+--------------------
 1. Array
 2. Matrix
 3. String
-
-## 1. Array
+4. Linked List
+5. Stack and Queue
+```
+##  1. Array
 - It is used as a list in Python
-- subarray :
-- subsequence :
+- Common Terms - Subarray/ Subsequence
+  
+      - subarray: A range of contiguous values within an array
+      - subsequence: A sequence that can be derived from the given sequence by deleting some or no elements W/O changing the order
+      - All Subarray is subsequence, but the reverse is not true.
+  
+      Example: [2, 3, 6, 1, 5, 4]
+              [3, 6, 1] ----->  Subarry, Subsequence
+              [3, 1, 5] ----->  NOT Subarray, Subsequence
+              [6, 5, 1] ----->  NOT Subarray, NOT Subsequence
 - Several important algorithms are designed specifically for arrays, addressing common tasks like searching for an element, sorting the array in a specific order, or performing various transformations on the array’s elements.
 Following are some commonly used algorithms specifically for arrays:<br>
 
@@ -32,6 +45,7 @@ Following are some commonly used algorithms specifically for arrays:<br>
 | 1     | Check if pair with the given Sum exists in Array | [Link](https://leetcode.com/problems/two-sum/description/)                              | Easy             |  &#9996;|
 
 ## 2. Matrix
+- Matrix is a 2D array,  Represented by a nested list in Python
 
 | Matrix | Problem              | LeetCode Link                                                            | Difficulty | Remark |
 | -----  | ---------------------| -------------------------------------------------------------------------| -----------| -------- |
