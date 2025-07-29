@@ -40,9 +40,9 @@ Following are some commonly used algorithms specifically for arrays:<br>
       3. Finding max and min in one pass
       4. Finding 2nd max along with max in one pass
 
-| Array | Problem                                          | LeetCode Link                                                                           | Difficulty Level | Remark |
-| ----- | ------------------------------------------------ | --------------------------------------------------------------------------------------- | ---------------- | -------- |
-| 1     | Check if pair with the given Sum exists in Array | [Link](https://leetcode.com/problems/two-sum/description/)                              | Easy             |  &#9996;|
+| Array | Problem                                          | LeetCode Link                                                         | Difficulty Level | Remark |
+| ----- | ------------------------------------------------ | ----------------------------------------------------------------------| ---------------- | -------|
+| 1     | Maximum Subarray                                 | [Link](https://leetcode.com/problems/maximum-subarray/description/)   | Medium           |#of Subarray = n(n+1)/2 <br> Kadane Algorithm|
 
 ## 2. Matrix
 - Matrix is a 2D array,  Represented by a nested list in Python
