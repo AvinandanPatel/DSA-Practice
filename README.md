@@ -42,7 +42,7 @@ Following are some commonly used algorithms specifically for arrays:<br>
 
 | Array | Problem                                          | LeetCode Link                                                         | Difficulty Level | Remark |
 | ----- | ------------------------------------------------ | ----------------------------------------------------------------------| ---------------- | -------|
-| 1     | Maximum Subarray                                 | [Link](https://leetcode.com/problems/maximum-subarray/description/)   | Medium           |Total no of Subarray of array size n = n(n+1)/2 <br> Kadane Algorithm|
+| 1     | Maximum Subarray                                 | [Link](https://leetcode.com/problems/maximum-subarray/description/)   | Medium           |Total no of Subarray of array size n = n(n+1)/2 <br> Kadane Algorithm - Removing Neg prefix|
 
 ## 2. Matrix
 - Matrix is a 2D array,  Represented by a nested list in Python
