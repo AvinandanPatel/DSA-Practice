@@ -61,7 +61,8 @@ Following are some commonly used algorithms specifically for arrays:<br>
 ## 3. String
 - Common Terms:
 ```
-Palindrom -
+Palindrom - A word, phrase, or sequence that reads the same backwards as forwards
+Example: civic, aba, level, radar, madam
 Anagram - 
 ```
 
