@@ -58,3 +58,15 @@ Following are some commonly used algorithms specifically for arrays:<br>
 | 4      | Spiral Matrix - IV   | [Link](https://leetcode.com/problems/spiral-matrix-iv/description/)      | Medium     |          |
 | 6      | 01 matrix            | [Link](https://leetcode.com/problems/01-matrix/)                         | Medium     | BFS + visited, Dynamic Programming <br> **NOTE :** whenever asking about distance think about BFS, DFS |
 
+## 3. String
+- Common Terms:
+```
+Palindrom -
+Anagram - 
+```
+
+| String | Problem                        | LeetCode Link                                                                          | Difficulty | Remark |
+| -----  | -------------------------------| ---------------------------------------------------------------------------------------| -----------|--------|
+| 5      |Longest Pallindromic Substring  | [Link](https://leetcode.com/problems/longest-palindromic-substring/description/)       | Medium     |2 pointers|
+
+
